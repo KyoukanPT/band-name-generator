@@ -18,8 +18,8 @@
 
 3 - npm install <br>
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> express </a> <br>
-5 - npm install ejs <a href="https://ejs.co/"> EJS </a> <br>
+5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 6 - node app.js <br>
 <hr>
 <h3>How to use the App?</h3>
-<p>Click on the "Generate Name" button. It will generate a random Band name </p>
+<p>Click on the "Generate Name" button. It will generate a random Band name. </p>

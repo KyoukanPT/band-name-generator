@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
   res.render("index.ejs", {
-    title : "Welcome to the band Generator 🤘"
+    title : "Welcome to the Band Generator 🤘"
   });
 });
 

@@ -20,7 +20,9 @@
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 6 - node index.js <br>
+
 <hr>
+
 <h3>How to use the App?</h3>
-<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br><br> 
- - Click on the "Generate Name" button. It will generate a random Band name. </p>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Click on the "Generate Name" button. It will generate a random Band name. </p>

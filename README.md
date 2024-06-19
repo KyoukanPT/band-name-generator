@@ -22,4 +22,5 @@
 6 - node index.js <br>
 <hr>
 <h3>How to use the App?</h3>
-<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and click on the "Generate Name" button. It will generate a random Band name. </p>
+<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> <br><br> 
+ - Click on the "Generate Name" button. It will generate a random Band name. </p>
